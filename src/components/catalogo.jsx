@@ -18,7 +18,7 @@ export default props =>
 						<div class="acessorio-info">
 							<h2>Colar</h2>
 							<p>lorem ipsum sit door amet</p>
-							<a href="/contatos">mais detalhes</a>
+							<a href="#/contatos">mais detalhes</a>
 						</div>
 					</div>
 					<div class="vitrine">
@@ -26,7 +26,7 @@ export default props =>
 						<div class="acessorio-info">
 							<h2>Anel</h2>
 							<p>lorem ipsum sit door is amet</p>
-							<a href="/contatos">mais detalhes</a>
+							<a href="#/contatos">mais detalhes</a>
 						</div>
 					</div>
 					<div class="vitrine">
@@ -34,7 +34,7 @@ export default props =>
 						<div class="acessorio-info">
 							<h2>pulseira</h2>
 							<p>lorem ipsum sit door is amet </p>
-							<a href="/contatos">mais detalhes</a>
+							<a href="#/contatos">mais detalhes</a>
 						</div>
 					</div>
 					<div class="vitrine">
@@ -42,7 +42,7 @@ export default props =>
 						<div class="acessorio-info">
 							<h2>pulseira de pé</h2>
 							<p>Lorem ipsum sit door is amet</p>
-							<a href="/contatos">mais detalhes</a>
+							<a href="#/contatos">mais detalhes</a>
 						</div>
 					</div>
 					<div class="vitrine">
@@ -50,7 +50,7 @@ export default props =>
 						<div class="acessorio-info">
 							<h2>Anel</h2>
 							<p>Lorem ipsum sit door is amet</p>
-							<a href="/contatos">mais detalhes</a>
+							<a href="#/contatos">mais detalhes</a>
 						</div>
 					</div>
 					<div class="vitrine">
@@ -58,7 +58,7 @@ export default props =>
 						<div class="acessorio-info">
 							<h2>pulseira</h2>
 							<p>Lorem ipsum sit door is amet</p>
-							<a href="/contatos">mais detalhes</a>
+							<a href="#/contatos">mais detalhes</a>
 						</div>
 					</div>
 					<div class="vitrine">
@@ -74,7 +74,7 @@ export default props =>
 						<div class="acessorio-info">
 							<h2>Anel</h2>
 							<p>Lorem ipsum sit door is amet</p>
-							<a href="/contatos">mais detalhes</a>
+							<a href="#/contatos">mais detalhes</a>
 						</div>
 					</div>
 				</div>
