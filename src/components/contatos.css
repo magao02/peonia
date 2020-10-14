@@ -1,0 +1,21 @@
+.whats{
+    margin-top: 40px;
+    width: 100%;
+    max-width: 900px;
+    text-align: center;
+    display: inline-block;
+}
+.whats a{
+    cursor: pointer;
+}
+.whats img{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    
+}
+.whats h2{
+    font-size: 30px;
+    color:  #9991A2;
+    display: inline-block;
+}
