@@ -1,5 +1,5 @@
 import React from 'react'
-import Headerc from '../components/header-home'
+import Headerc from '../components/header-contato'
 import './catalogo.css'
 import './contatos.css'
 import logo from '../assets/image-260nw-601427237.webp'

@@ -8,12 +8,12 @@ export default props =>
 	<div class="container">
 		<div class="logo">
 			<div class="img"></div>
-			<h1>Peonia Pratas</h1>
+			<h1><a href='/'>Peonia Pratas</a></h1>
 		</div>
 		<nav class="desktop">
 			<ul>
-				<li><a style={{color: "#9197A2"}} href="/">catalogo</a></li>
-				<li><a href="#/contatos">Contato</a></li>
+				<li><a  href="/">catalogo</a></li>
+				<li><a style={{color: "#9197A2"}} href="#/contatos">Contato</a></li>
 			</ul>
 		</nav>
 		<nav class="mobile">
@@ -26,4 +26,3 @@ export default props =>
 	</div>
 	</header>
     </div>
-

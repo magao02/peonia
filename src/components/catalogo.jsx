@@ -17,6 +17,7 @@ export default props =>
 						<div class="acessorio-img" ></div>
 						<div class="acessorio-info">
 							<h2>Colar</h2>
+							<h3>20,00 R$</h3>
 							<p>lorem ipsum sit door amet</p>
 							<a href="#/contatos">mais detalhes</a>
 						</div>
@@ -25,6 +26,7 @@ export default props =>
 						<div class="acessorio-img" ></div>
 						<div class="acessorio-info">
 							<h2>Anel</h2>
+							<h3>20,00 R$</h3>
 							<p>lorem ipsum sit door is amet</p>
 							<a href="#/contatos">mais detalhes</a>
 						</div>
@@ -33,6 +35,7 @@ export default props =>
 						<div class="acessorio-img"></div>
 						<div class="acessorio-info">
 							<h2>pulseira</h2>
+							<h3>20,00 R$</h3>
 							<p>lorem ipsum sit door is amet </p>
 							<a href="#/contatos">mais detalhes</a>
 						</div>
@@ -41,6 +44,7 @@ export default props =>
 						<div class="acessorio-img" ></div>
 						<div class="acessorio-info">
 							<h2>pulseira de pé</h2>
+							<h3>20,00 R$</h3>
 							<p>Lorem ipsum sit door is amet</p>
 							<a href="#/contatos">mais detalhes</a>
 						</div>
@@ -49,6 +53,7 @@ export default props =>
 						<div class="acessorio-img" ></div>
 						<div class="acessorio-info">
 							<h2>Anel</h2>
+							<h3>20,00 R$</h3>
 							<p>Lorem ipsum sit door is amet</p>
 							<a href="#/contatos">mais detalhes</a>
 						</div>
@@ -57,6 +62,7 @@ export default props =>
 						<div class="acessorio-img" ></div>
 						<div class="acessorio-info">
 							<h2>pulseira</h2>
+							<h3>20,00 R$</h3>
 							<p>Lorem ipsum sit door is amet</p>
 							<a href="#/contatos">mais detalhes</a>
 						</div>
@@ -65,6 +71,7 @@ export default props =>
 						<div class="acessorio-img"></div>
 						<div class="acessorio-info">
 							<h2>colar</h2>
+							<h3>20,00 R$</h3>
 							<p>Lorem ipsum sit door is amet</p>
 							<a href="individual.html">mais detalhes</a>
 						</div>
@@ -73,6 +80,7 @@ export default props =>
 						<div class="acessorio-img" ></div>
 						<div class="acessorio-info">
 							<h2>Anel</h2>
+							<h3>20,00 R$</h3>
 							<p>Lorem ipsum sit door is amet</p>
 							<a href="#/contatos">mais detalhes</a>
 						</div>

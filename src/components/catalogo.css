@@ -71,7 +71,13 @@ section.featured-vehicles .container{
 	padding-left: 8px;
 	color: black;
 	font-style: italic;
-	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.acessorio-info h3{
+	padding-left: 8px;
+	color: black;
+	font-style: italic;
 }
 .acessorio-info p{
 	padding-left: 8px;
@@ -160,12 +166,8 @@ footer p{
 	
 }
 @media screen and (max-width: 580px){
-	section.banner .text-banner{
-		padding: 30px;
-	}
-	.text-banner-single{
-		font-size: 18px;
-
+	.logo h1{
+		width: 180px;
 	}
 	.vitrine{
 		display: inline-block;
