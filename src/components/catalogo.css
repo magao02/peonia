@@ -138,6 +138,11 @@ section.featured-vehicles .container{
 	font-style: italic;
 	text-transform: uppercase;
 }
+.acessorio-info p{
+	padding-left: 8px;
+	text-transform: uppercase;
+}
+
 .vitrine:nth-of-type(13) h2{
 	font-size: 20px;
 
