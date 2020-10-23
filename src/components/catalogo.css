@@ -34,7 +34,7 @@ section.featured-vehicles .container{
 	float: left;
 	width: 33.3%;
 	padding-right: 25px;
-	padding-bottom: 35px; 
+	padding-bottom: 25px; 
 }
 .vitrine .acessorio-img{
 	width: 100%;
@@ -45,6 +45,9 @@ section.featured-vehicles .container{
 }
 .vitrine:nth-of-type(1) .acessorio-img{
     background-image: url('../assets/colar1.jpeg')
+}
+.vitrine:nth-of-type(2){
+	padding-bottom: 0px;
 }
 .vitrine:nth-of-type(2) .acessorio-img{
     background-image: url('../assets/aneis.jpeg')
@@ -64,14 +67,88 @@ section.featured-vehicles .container{
 .vitrine:nth-of-type(7) .acessorio-img{
     background-image: url('../assets/colar3.jpeg')
 }
+.vitrine:nth-of-type(7){
+	padding-bottom: 0px ;
+}
 .vitrine:nth-of-type(8) .acessorio-img{
-    background-image: url('../assets/anel3.jpeg')
+    background-image: url('../assets/colar1.jpeg')
+}
+.vitrine:nth-of-type(9) .acessorio-img{
+    background-image: url('../assets/brincos1.png')
+}
+.vitrine:nth-of-type(10) .acessorio-img{
+    background-image: url('../assets/brincos2.png')
+}
+.vitrine:nth-of-type(11) .acessorio-img{
+    background-image: url('../assets/brincosaneis.png')
+}
+.vitrine:nth-of-type(12) .acessorio-img{
+    background-image: url('../assets/brincosaneis2.png')
+}
+
+.vitrine:nth-of-type(13){
+	padding-bottom: 0px;
+
+}
+.vitrine:nth-of-type(13) .acessorio-img{
+    background-image: url('../assets/cactope.png')
+}
+.vitrine:nth-of-type(14) .acessorio-img{
+    background-image: url('../assets/colar6.png')
+}
+.vitrine:nth-of-type(15) .acessorio-img{
+    background-image: url('../assets/colar8.png')
+}
+.vitrine:nth-of-type(16) .acessorio-img{
+    background-image: url('../assets/colares.png')
+}
+.vitrine:nth-of-type(17) .acessorio-img{
+    background-image: url('../assets/kit2aneis1.png')
+}
+.vitrine:nth-of-type(18) .acessorio-img{
+    background-image: url('../assets/kit3aneis1.jpeg')
+}
+.vitrine:nth-of-type(19) .acessorio-img{
+    background-image: url('../assets/kit3colares.png')
+}
+.vitrine:nth-of-type(20) .acessorio-img{
+    background-image: url('../assets/kit3colares2.png')
+}
+.vitrine:nth-of-type(21) .acessorio-img{
+    background-image: url('../assets/berloque1.jpeg')
+}
+.vitrine:nth-of-type(22) .acessorio-img{
+    background-image: url('../assets/verloque2.jpeg')
+}
+.vitrine:nth-of-type(23) .acessorio-img{
+    background-image: url('../assets/berloque3.jpeg')
+}
+.vitrine:nth-of-type(24) .acessorio-img{
+    background-image: url('../assets/berloque4.jpeg')
+}
+.vitrine:nth-of-type(25) .acessorio-img{
+    background-image: url('../assets/murano.jpeg')
+}
+.vitrine:nth-of-type(26) .acessorio-img{
+    background-image: url('../assets/murano2.jpeg')
 }
 .acessorio-info h2{
 	padding-left: 8px;
 	color: black;
 	font-style: italic;
 	text-transform: uppercase;
+}
+.vitrine:nth-of-type(13) h2{
+	font-size: 20px;
+
+}
+.vitrine:nth-of-type(20) h2{
+	font-size: 20px;
+
+}
+.vitrine:nth-of-type(19) h2{
+	font-size: 20px;
+
 }
 
 .acessorio-info h3{
@@ -85,6 +162,87 @@ section.featured-vehicles .container{
 	font-style: italic;
 	color: #363636;
 	font-size: 15px;
+}
+.vitrine:nth-of-type(20){
+	padding-bottom: 0;
+
+}
+.vitrine:nth-of-type(19){
+	padding-bottom: 0;
+
+}
+.vitrine:nth-of-type(11){
+	padding-bottom: 0;
+
+}
+.vitrine:nth-of-type(16){
+	padding-bottom: 0;
+
+}
+.vitrine:nth-of-type(11) p{
+	font-size: 13px;
+	padding-top: 2px;
+}
+.vitrine:nth-of-type(20) p{
+	font-size: 13px;
+	padding-top: 2px;
+}
+.vitrine:nth-of-type(19) p{
+	font-size: 13px;
+	padding-top: 2px;
+}
+.vitrine:nth-of-type(11) .acessorio-img{
+	width: 100%;
+	padding-top: 95%;
+	border: 8px solid white;
+	background-size: 100% 100%;
+
+}
+.vitrine:nth-of-type(11) h2{
+	font-size: 20px;
+}
+.vitrine:nth-of-type(11) h3{
+	font-size: 15px;
+}.vitrine:nth-of-type(20) h3{
+	font-size: 15px;
+}
+.vitrine:nth-of-type(19) h3{
+	font-size: 15px;
+}
+.vitrine:nth-of-type(12){
+	padding-bottom: 0;
+
+}
+.vitrine:nth-of-type(12) p{
+	font-size: 13px;
+	padding-top: 2px;
+}
+.vitrine:nth-of-type(12) .acessorio-img{
+	width: 100%;
+	padding-top: 95%;
+	border: 8px solid white;
+	background-size: 100% 100%;
+
+}
+
+.vitrine:nth-of-type(12) h3{
+	font-size: 15px;
+}
+
+.vitrine:nth-of-type(7) p{
+	font-size:  13px ;
+}
+.vitrine:nth-of-type(19) p{
+	font-size:  13px ;
+}
+.vitrine:nth-of-type(5) p{
+	font-size:  13px ;
+}
+.vitrine:nth-of-type(5) h2{
+	font-size:  20px ;
+}
+.vitrine:nth-of-type(5){
+	padding-bottom: 0px;;
 }
 .acessorio-info a{
 	background-color: #9197A2;
