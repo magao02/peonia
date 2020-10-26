@@ -71,7 +71,7 @@ section.featured-vehicles .container{
 	padding-bottom: 0px ;
 }
 .vitrine:nth-of-type(8) .acessorio-img{
-    background-image: url('../assets/colar1.jpeg')
+    background-image: url('../assets/argolinha.jpeg')
 }
 .vitrine:nth-of-type(9) .acessorio-img{
     background-image: url('../assets/brincos1.png')
@@ -109,7 +109,7 @@ section.featured-vehicles .container{
     background-image: url('../assets/kit3aneis1.jpeg')
 }
 .vitrine:nth-of-type(19) .acessorio-img{
-    background-image: url('../assets/kit3colares.png')
+    background-image: url('../assets/conjcolar.jpeg')
 }
 .vitrine:nth-of-type(20) .acessorio-img{
     background-image: url('../assets/kit3colares2.png')
@@ -131,6 +131,42 @@ section.featured-vehicles .container{
 }
 .vitrine:nth-of-type(26) .acessorio-img{
     background-image: url('../assets/murano2.jpeg')
+}
+.vitrine:nth-of-type(27) .acessorio-img{
+    background-image: url('../assets/colazi.jpeg')
+}
+.vitrine:nth-of-type(28) .acessorio-img{
+    background-image: url('../assets/conjaneis.jpeg')
+}
+.vitrine:nth-of-type(29) .acessorio-img{
+    background-image: url('../assets/puls2.jpeg')
+}
+.vitrine:nth-of-type(30) .acessorio-img{
+    background-image: url('../assets/conjbrinco.jpeg')
+}
+.vitrine:nth-of-type(31) .acessorio-img{
+    background-image: url('../assets/conjuntofalanfe.jpeg')
+}
+.vitrine:nth-of-type(32) .acessorio-img{
+    background-image: url('../assets/puls.jpeg')
+}
+.vitrine:nth-of-type(33) .acessorio-img{
+    background-image: url('../assets/conjfalange.jpeg')
+}
+.vitrine:nth-of-type(34) .acessorio-img{
+    background-image: url('../assets/conjuntoaneis.jpeg')
+}
+.vitrine:nth-of-type(35) .acessorio-img{
+    background-image: url('../assets/conjunto\ coracao.jpeg')
+}
+.vitrine:nth-of-type(36) .acessorio-img{
+    background-image: url('../assets/conjcolar2.jpeg')
+}
+.vitrine:nth-of-type(37) .acessorio-img{
+    background-image: url('../assets/conjunto5.jpeg')
+}
+.vitrine:nth-of-type(38) .acessorio-img{
+    background-image: url('../assets/brinc.jpeg')
 }
 .acessorio-info h2{
 	padding-left: 8px;
@@ -195,6 +231,15 @@ section.featured-vehicles .container{
 .vitrine:nth-of-type(19) p{
 	font-size: 13px;
 	padding-top: 2px;
+}
+.vitrine:nth-of-type(31) .acessorio-img{
+    padding-top: 90%;
+}
+.vitrine:nth-of-type(32) .acessorio-img{
+    padding-top: 90%;
+}
+.vitrine:nth-of-type(33) .acessorio-img{
+    padding-top: 90%;
 }
 .vitrine:nth-of-type(11) .acessorio-img{
 	width: 100%;
